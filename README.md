@@ -27,7 +27,7 @@ My name is S.V Karthigeyan and I'm a Front-End Developer from India
   <a href="https://www.linkedin.com/in/s-v-karthigeyan">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:yourname@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
