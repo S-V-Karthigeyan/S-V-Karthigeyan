@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hey 👋 What's up?
 
-<!--
-**S-V-Karthigeyan/S-V-Karthigeyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is S.V Karthigeyan and I'm a Front-End Developer from India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 💻 Creating bugs and fixing them 😄
+- 📚 I'm currently improving my Front-End skills
+- 🎯 Goal: Become a skilled Full Stack Developer
+- ⚡ Fun fact: I love building clean and responsive UI
+
+---
+
+## Things That I Know  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+---
+
+## Contact Information
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/s-v-karthigeyan">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
