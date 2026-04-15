@@ -4,10 +4,10 @@ My name is S.V Karthigeyan and I'm a Front-End Developer from India
 
 ---
 
-## About me
+## 👋 About me
 
 - 💻 Creating bugs and fixing them 😄
-- 📚 I'm currently learning ...
+- 🚀 Hands-on experience in HTML, CSS and JS
 - 🎯 Goal: Become a skilled Full Stack Developer
 - ⚡ Fun fact: I love building clean and responsive UI
 
