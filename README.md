@@ -16,7 +16,7 @@ My name is S.V Karthigeyan and I'm a Front-End Developer from India
 ## Things That I Know  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tsx" />
 </p>
 
 ---
