@@ -20,6 +20,25 @@ My name is S.V Karthigeyan and I'm a Front-End Developer from India
 </p>
 
 ---
+## Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=vercel" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=netlify" />
+</p>
+
+---
 
 ## Contact Information
 
